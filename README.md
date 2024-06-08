@@ -1,4 +1,4 @@
 # github
 This is my first git repository.
 <br>
-author - khushyal (apna college)
+author - khushyal (meri college)
